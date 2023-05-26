@@ -1,4 +1,6 @@
 git In Github 
 
-changes 2
+
 change 3 and delete change 1
+
+change 4 delete 2
