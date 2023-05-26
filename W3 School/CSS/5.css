@@ -1,0 +1,32 @@
+#blockqt 
+{
+    color: #c91111;
+    border : 20px solid #ffff01;
+    opacity: 0.5;
+    /*background-color: rgb(255,0,0);*/
+    padding:6px;
+}
+
+#hel
+{
+    color: #0f0;
+}
+
+.citee
+{
+    border: 3px dotted #ff00ff;
+    font-size: 50px;
+    padding: 170px;
+    /*background-color: hsla(240,100%,50%,0.5);*/
+    background-image: url("../HTML/images/eascr.jpg")
+   
+}
+
+.abbbr
+{
+    color: hsl(120,100%,50%);
+}
+body
+{
+    margin : 100px;
+}

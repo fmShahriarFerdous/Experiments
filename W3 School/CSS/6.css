@@ -1,0 +1,17 @@
+body 
+{
+   background-image:url("../HTML/images/eascr.jpg");
+   /* background-size: 300px 300px;  */
+   background-size: auto;
+   background-repeat: no-repeat;
+   display: inline-block;
+   background-position: right top;
+   background-attachment: scroll;
+   /* background-attachment: fixed; */
+}
+h1,p {
+    color:  rgb(0,0,255);
+}
+
+
+

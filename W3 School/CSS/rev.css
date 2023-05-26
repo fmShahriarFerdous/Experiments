@@ -1,0 +1,36 @@
+body {
+    margin: 30px;
+    background-color: rgba(120, 120, 120,0.5);
+    font-size: 50px;
+}
+a:link
+{
+    color : #ff00ff;
+    display: inline-block;
+    padding: 30px;
+    background-color: rgba(0,255,255,0.5);
+    text-decoration:none;
+    
+}
+
+a:visited 
+{
+    color: #fff;
+    
+    
+}
+
+a:hover 
+{
+    color: hsl(120,100%,50%);
+    text-decoration:none;
+    
+}
+
+a:active
+{
+    color: yellow;
+    
+}
+
+

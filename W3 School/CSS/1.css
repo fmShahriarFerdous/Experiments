@@ -1,0 +1,22 @@
+body {
+    background-color: orange;
+    text-align: center;
+}
+
+/* h1.demclass{
+    color: purple;
+    text-align:center;
+    font-family: Verdana;
+    font-size: 30px
+    
+}
+#demo{
+    font-family: verdana;
+    font-size: 20px;
+    color: blue;
+} */
+*{
+    color:lightblue;
+    font-family:verdana;
+    
+}
