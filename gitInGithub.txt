@@ -1,3 +1,4 @@
 git In Github 
-chages 1
+
 changes 2
+change 3 and delete change 1
