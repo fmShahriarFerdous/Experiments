@@ -1,7 +1,6 @@
 git In Github 
 
-
-
-change 4 delete 2
-
 change 5 delete 3
+
+change 6 delete 4
+
